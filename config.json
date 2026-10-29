@@ -1,0 +1,19 @@
+{
+  "minecraftVersion": "26.2",
+  "clientPort": 3001,
+  "eaglerPort": 25557,
+  "backendPort": 25566,
+  "serverName": "Eaglercraft 26.2 Server",
+  "motd": "Eaglercraft Server host by ---.",
+  "gameMode": "survival",
+  "maxPlayers": 30,
+  "viewDistance": 4,
+  "simulationDistance": 3,
+  "publicWebSocketUrl": "",
+  "paperMemoryMin": "512M",
+  "paperMemoryMax": "1536M",
+  "velocityMemoryMin": "96M",
+  "velocityMemoryMax": "256M",
+  "acceptMinecraftEula": true,
+  "backendProtocol": 776
+}

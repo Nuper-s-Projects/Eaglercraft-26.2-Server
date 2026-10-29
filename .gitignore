@@ -1,0 +1,16 @@
+node_modules/
+dist/
+client/index.html.br*
+runtime/**/*.jar
+runtime/versions.json
+runtime/backend/world*/
+runtime/backend/logs/
+runtime/backend/cache/
+runtime/backend/libraries/
+runtime/backend/versions/
+runtime/backend/.cache/
+runtime/proxy/logs/
+runtime/proxy/.cache/
+runtime/proxy/forwarding.secret
+*.log
+.DS_Store
